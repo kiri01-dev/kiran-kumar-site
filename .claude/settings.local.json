@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:instantdomainsearch.com)",
+      "WebFetch(domain:www.whois.com)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --yes)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(grep -q \"^$\" \"C:\\\\Users\\\\kiri0\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-kiri0-Claude2026-APP-PersonalSite\\\\3df53209-49cc-4933-ac76-42f77cc906f0\\\\tasks\\\\bhtlc4lij.output\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(netstat -ano)",
+      "Bash(awk '{print $5}')",
+      "Bash(xargs -I{} taskkill //PID {} //F)"
+    ]
+  }
+}
