@@ -49,9 +49,9 @@ export const experience = [
     period: "2021 – 2024",
     type: "role",
     bullets: [
-      "Owned the $xxxM, xxM+ member World Market Rewards program; increased retention by 700 bps through tiers, gamification, and 1:1 personalization with AI/ML.",
-      "Launched a Credit Card product with Bread Financial capturing x% of total member sales, delivering $850+ in annual incremental revenue per cardholder.",
-      "Managed a team of 70+ and a $xxM budget; generated $xxM+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
+      "Owned the $1B+, 15M+ member World Market Rewards program; increased retention by 700 bps through tiers, gamification, and 1:1 personalization with AI/ML.",
+      "Launched a Credit Card product with Bread Financial delivering $850+ in annual incremental revenue per cardholder.",
+      "Managed a team of 70+ and a $20M+ budget; generated $20M+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
     ],
   },
   {
@@ -72,7 +72,7 @@ export const experience = [
     type: "role",
     bullets: [
       "Led 'just for U,' a hyper-personalized loyalty platform using AI/ML; delivered 1% sales growth on a $30B base and grew active customers from 1M to 10M+.",
-      "Generated $xxM+ in annual brand funding from CPG vendors through the retail media network; drove 200M+ annual website visits.",
+      "Generated $50M+ in annual brand funding from CPG vendors through the retail media network; drove 200M+ annual website visits.",
       "Led 60+ employees across analytics, eCommerce, and program management; replatformed 10+ websites to Adobe Experience Manager, reducing costs by $12M annually.",
     ],
   },
@@ -161,7 +161,7 @@ export const recognition = [
     publication: "Forbes",
     award: "Customer Experience All-Stars",
     year: "2024",
-    url: "https://web.archive.org/web/20250618184147/https://rankings.newsweek.com/americas-best-retailers-2024",
+    url: "https://web.archive.org/web/20240221122748/https://www.forbes.com/lists/customer-experience-all-stars/",
   },
   {
     publication: "Newsweek",
@@ -174,6 +174,12 @@ export const recognition = [
     award: "America's Best Customer Service",
     year: "2024",
     url: "https://www.usatoday.com/story/money/2024/04/10/top-customer-service-plant-a/73194082007/",
+  },
+  {
+    publication: "MarTech.org",
+    award: "How Petco Boosted Emails and Customer Experience",
+    year: "2023",
+    url: "https://martech.org/how-petco-boosted-emails-and-customer-experience-with-a-new-crm/",
   },
 ];
 

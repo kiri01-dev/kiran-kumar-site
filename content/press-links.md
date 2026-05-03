@@ -20,7 +20,7 @@ Paste the links below. Each entry needs:
 
 - Customer Experience All-Stars
 - 2024
-- https://web.archive.org/web/20250618184147/https://rankings.newsweek.com/americas-best-retailers-2024
+- https://web.archive.org/web/20240221122748/https://www.forbes.com/lists/customer-experience-all-stars/
 
 ---
 
