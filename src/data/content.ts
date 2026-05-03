@@ -16,7 +16,7 @@ export const about = `Kiran Kumar is a customer experience, product management, 
 
 export const metrics = [
   { value: "$5B+", label: "Incremental revenue generated", sub: "at 4 Leading U.S Retailers" },
-  { value: "700 bps", label: "Retention rate improvement", sub: "in a $B Omni-channel Loyalty Program" },
+  { value: "700 bps", label: "Retention rate improvement", sub: "in a billion-dollar Omni-channel Loyalty Program" },
   { value: "$100M+", label: "Gross margin improvement", sub: "in a $6B+ Business Group FP&A role" },
   { value: "100M+", label: "Customers Engaged", sub: "in 4 Omni-channel CX roles" },
   { value: "$50M+", label: "Annual CPG brand funding generated", sub: "in a leading Retail Media Network" },
@@ -49,7 +49,7 @@ export const experience = [
     period: "2021 – 2024",
     type: "role",
     bullets: [
-      "Owned the $B+, 15M+ member World Market Rewards program; increased retention by 700 bps through tiers, gamification, and 1:1 personalization with AI/ML.",
+      "Owned World Market Rewards, a billion-dollar, 15M+ member program; increased retention by 700 bps through tiers, gamification, and 1:1 personalization with AI/ML.",
       "Launched a Credit Card product with Bread Financial delivering $850+ in annual incremental revenue per cardholder.",
       "Managed a team of 70+ and a $20M+ budget; generated $15M+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
     ],
