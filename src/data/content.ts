@@ -49,9 +49,9 @@ export const experience = [
     period: "2021 – 2024",
     type: "role",
     bullets: [
-      "Owned World Market Rewards, a billion-dollar, 15M+ member program; increased retention by 700 bps through tiers, gamification, and 1:1 personalization with AI/ML.",
-      "Launched a Credit Card product with Bread Financial delivering $850+ in annual incremental revenue per cardholder.",
-      "Managed a team of 70+ and a $20M+ budget; generated $15M+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
+      "Owned World Market Rewards, driving $xxxM's in total revenue ; increased retention by 100s of bps through tiers, gamification, and 1:1 personalization with AI/ML.",
+      "Launched a Credit Card product with Bread Financial delivering significant annual incremental revenue per cardholder.",
+      "Managed a team of 70+ and a $xxM budget; generated $20M+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
     ],
   },
   {
