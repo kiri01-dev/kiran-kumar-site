@@ -9,7 +9,7 @@ export const person = {
   linkedin: "https://www.linkedin.com/in/kirank01",
   headshot: "/headshot.jpg",
   contactBlurb:
-    "Available for Board of Director engagements in direct-to-consumer businesses, eCommerce,omni-channel retail, consumer products, and MarTech/AdTech.",
+    "Available for Board of Director engagements in direct-to-consumer businesses, eCommerce, omni-channel retail, consumer products, and MarTech/AdTech.",
 };
 
 export const about = `Kiran Kumar is a customer experience, product management, and digital transformation executive with 20+ years building the loyalty platforms, personalization engines, ecommerce sites/apps, and marketing technology and data infrastructure that drive profitable growth at America's largest retailers. He has applied AI/ML to real-world CX and operational challenges for 15+ years - long before "AI strategy" became a boardroom agenda item. At Safeway, Albertsons, Petco, and World Market, he rebuilt and grew $30B+ loyalty revenue portfolios, scaled customer bases from millions to tens of millions, and led teams of 100+ across analytics, marketing, product management, and digital operations. He brings the financial fluency of having overseen multi-billion$ P&Ls, to every growth decision. Today he is a partner at xVector Labs, building agentic AI applications for enterprises, and advises early-stage companies at Berkeley SkyDeck. He is actively pursuing board leadership roles where AI applications, digital and CX transformation, and growth are strategic priorities.`;
@@ -29,63 +29,42 @@ export const experience = [
     company: "XVector Labs Inc.",
     period: "2025 – Present",
     type: "current",
-    bullets: [
-      "App development, marketing, and training in support of revenue cycle management, supply chain, and marketing solutions delivered through an Agentic AI no-code data platform.",
-    ],
+    description: "Building agentic AI applications for enterprise clients, developing and marketing solutions across revenue cycle management, supply chain, and marketing through a no-code data platform.",
   },
   {
     title: "Advisor & Selection Committee Member",
     company: "Berkeley SkyDeck, UC Berkeley",
     period: "2024 – Present",
     type: "current",
-    bullets: [
-      "Curate 1,000+ startup applications down to ~30 finalists annually.",
-      "Support portfolio startups with expertise in consumer insights, product design, loyalty, and marketing.",
-    ],
+    description: "Serve on the Selection Committee at UC Berkeley's premier startup incubator, evaluating thousands of applications annually and advising portfolio companies on consumer insights, product strategy, loyalty, and go-to-market execution.",
   },
   {
     title: "Vice President, Loyalty & Customer Experience",
     company: "World Market",
     period: "2021 – 2024",
     type: "role",
-    bullets: [
-      "Owned World Market Rewards, driving $xxxM's in total revenue ; increased retention by 100s of bps through tiers, gamification, and 1:1 personalization with AI/ML.",
-      "Launched a Credit Card product with Bread Financial delivering significant annual incremental revenue per cardholder.",
-      "Managed a team of 70+ and a $xxM budget; generated $20M+ in incremental holiday revenue annually through omni-channel loyalty campaigns.",
-    ],
+    description: "Led loyalty, CRM, customer service, analytics, digital marketing, and marketing technology at World Market - rebuilding organizational capabilities and driving growth in a challenged home furnishings market. Expanded World Market Rewards through tiers, gamification, AI/ML personalization, a co-branded credit card with Bread Financial, and innovative omni-channel campaigns, while modernizing the MarTech stack with Cheetah Digital, Attentive, and a Customer 360 platform. Led a team of 70+ across loyalty, analytics, customer service, and consumer insights.",
   },
   {
     title: "Head of Marketing Channels & Personalization Platforms",
     company: "Petco",
     period: "2019 – 2021",
     type: "role",
-    bullets: [
-      "Contributed to Petco's successful 2021 IPO as a $5B revenue business; lifted email engagement and revenue by 30–50% through Einstein AI/ML personalization in Salesforce Marketing Cloud.",
-      "Delivered $12M+ in incremental revenue at 14x ROAS by launching AI-powered cart and browse abandonment programs via Wunderkind.",
-      "Generated $20M in incremental sales through personalized onboarding, holistic care reminders, and cross-sell/up-sell CRM campaigns.",
-    ],
+    description: "Recruited by Petco's new leadership to build personalization and marketing channel capabilities from the ground up as part of a strategic organizational rebuild, contributing to the company's successful 2021 IPO. Deployed Einstein AI/ML in Salesforce Marketing Cloud, launched AI-powered cart and browse abandonment programs via Wunderkind, and established personalized CRM journeys for onboarding, retention, and cross-sell -transforming email from a broadcast channel into a precision revenue engine.",
   },
   {
     title: "Group VP, Product & Program Management / VP, Loyalty",
-    company: "Albertsons Companies (acquired Safeway)",
+    company: "Albertsons Companies",
     period: "2015 – 2019",
     type: "role",
-    bullets: [
-      "Led 'just for U,' a hyper-personalized loyalty platform using AI/ML; delivered 1% sales growth on a $30B base and grew active customers from 1M to 10M+.",
-      "Generated $50M+ in annual brand funding from CPG vendors through the retail media network; drove 200M+ annual website visits.",
-      "Led 60+ employees across analytics, eCommerce, and program management; replatformed 10+ websites to Adobe Experience Manager, reducing costs by $12M annually.",
-    ],
+    description: "Led the product and program management of 'just for U,' one of retail's most sophisticated AI/ML-powered loyalty platforms, scaling active customers from one million to tens of millions across the newly merged Albertsons-Safeway enterprise. Oversaw digital channel migrations, website replatforming to Adobe Experience Manager, retail media network development, and the launch of multiple eCommerce programs -including an early third-party marketplace and a meal kit pilot that led to Albertsons' acquisition of Plated -while building and leading six high-performing teams across analytics, digital, and program management.",
   },
   {
     title: "VP, Loyalty / Director, Financial Planning & Analytics",
     company: "Safeway Inc.",
     period: "2009 – 2015",
     type: "role",
-    bullets: [
-      "Built Safeway's 'just for U' loyalty platform from the ground up; drove substantial sales growth and brand funding through personalized offers and omni-channel experiences.",
-      "Served as CFO support for the $6B Perishables business, improving profitability by $100M+ in annualized gross margin across 1,400 stores.",
-      "Delivered an enterprise-wide AI/ML initiative enabling cluster-specific assortment, pricing, and operations using store-level customer and market data.",
-    ],
+    description: "Built Safeway's 'just for U' loyalty platform from inception, establishing the AI/ML foundation for what became one of grocery retail's most recognized personalization platforms. Concurrently served as financial strategy lead for the $6B Perishables business, where deep analytics and rigorous planning drove significant margin improvement across 1,400 stores -and delivered one of the earliest enterprise-scale applications of machine learning in U.S. grocery.",
   },
 ];
 

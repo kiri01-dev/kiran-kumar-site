@@ -25,14 +25,7 @@ export default function Experience() {
                   <h3 className="font-serif text-xl font-semibold text-gray-900">{role.title}</h3>
                   <span className="text-accent font-medium text-base">{role.company}</span>
                 </div>
-                <ul className="space-y-2">
-                  {role.bullets.map((b, j) => (
-                    <li key={j} className="flex gap-3 text-gray-600 text-sm leading-relaxed">
-                      <span className="text-accent mt-1 flex-shrink-0">—</span>
-                      <span>{b}</span>
-                    </li>
-                  ))}
-                </ul>
+                <p className="text-gray-600 text-sm leading-relaxed">{role.description}</p>
               </div>
             </div>
           ))}
