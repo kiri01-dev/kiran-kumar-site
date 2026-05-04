@@ -8,7 +8,7 @@ export default function About() {
           <div className="lg:col-span-3">
             <p className="text-accent font-medium text-sm tracking-widest uppercase mb-3">About</p>
             <h2 className="font-serif text-3xl lg:text-4xl font-bold text-gray-900 leading-snug">
-              A rare executive profile
+              Executive profile
             </h2>
           </div>
           <div className="lg:col-span-9">
