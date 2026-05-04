@@ -2,7 +2,7 @@ import { metrics } from "@/data/content";
 
 export default function Impact() {
   return (
-    <section id="impact" className="py-24 bg-white">
+    <section id="impact" className="py-16 bg-white">
       <div className="max-w-6xl mx-auto px-6">
         <div className="mb-14">
           <p className="text-accent font-medium text-sm tracking-widest uppercase mb-3">Impact</p>

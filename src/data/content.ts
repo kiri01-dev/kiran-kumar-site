@@ -19,8 +19,8 @@ export const metrics = [
   { value: "700 bps", label: "Retention rate improvement", sub: "in a billion-dollar Omni-channel Loyalty Program" },
   { value: "$100M+", label: "Gross margin improvement", sub: "in a $6B+ Business Group FP&A role" },
   { value: "100M+", label: "Customers Engaged", sub: "in 4 Omni-channel CX roles" },
-  { value: "$50M+", label: "Annual CPG brand funding generated", sub: "in a leading Retail Media Network" },
-  { value: "5+", label: "Major digital transformations", sub: "at 4 Leading U.S Retailers" },
+  { value: "$50M+", label: "Annual CPG brand funding generated", sub: "at a leading Retail Media Network" },
+  { value: "5+", label: "Major digital transformations delivered", sub: "at 4 Leading U.S Retailers" },
 ];
 
 export const experience = [

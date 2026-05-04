@@ -2,7 +2,7 @@ import { expertise } from "@/data/content";
 
 export default function Expertise() {
   return (
-    <section id="expertise" className="py-24 bg-white">
+    <section id="expertise" className="py-16 bg-white">
       <div className="max-w-6xl mx-auto px-6">
         <div className="mb-14">
           <p className="text-accent font-medium text-sm tracking-widest uppercase mb-3">Expertise</p>

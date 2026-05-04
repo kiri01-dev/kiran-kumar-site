@@ -2,7 +2,7 @@ import { person } from "@/data/content";
 
 export default function Contact() {
   return (
-    <section id="contact" className="py-24 bg-white">
+    <section id="contact" className="py-16 bg-white">
       <div className="max-w-6xl mx-auto px-6">
         <div className="max-w-2xl">
           <p className="text-accent font-medium text-sm tracking-widest uppercase mb-4">Contact</p>

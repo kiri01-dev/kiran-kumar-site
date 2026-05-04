@@ -2,7 +2,7 @@ import { about } from "@/data/content";
 
 export default function About() {
   return (
-    <section id="about" className="py-24 bg-gray-50">
+    <section id="about" className="py-16 bg-gray-50">
       <div className="max-w-6xl mx-auto px-6">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
           <div className="lg:col-span-3">
