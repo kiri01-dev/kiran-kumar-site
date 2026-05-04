@@ -5,7 +5,7 @@ export const person = {
   tagline:
     "20+ years. Enterprise scale. Omnichannel Loyalty and Ecommerce capabilities and apps, Digital Transformation and AI/ML in production - built from the ground up.",
   location: "San Francisco Bay Area",
-  email: "kiri01@gmail.com",
+  email: "kiran.kumar@foundryxp.com",
   linkedin: "https://www.linkedin.com/in/kirank01",
   headshot: "/headshot.jpg",
   contactBlurb:
