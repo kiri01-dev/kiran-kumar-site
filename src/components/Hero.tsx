@@ -3,7 +3,7 @@ import { person } from "@/data/content";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center pt-20 pb-16 bg-white">
+    <section className="flex items-center pt-20 pb-16 bg-white">
       <div className="max-w-6xl mx-auto px-6 w-full">
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 lg:gap-16 items-center">
 
